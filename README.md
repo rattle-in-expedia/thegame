@@ -1,9 +1,12 @@
 
-> Game name here
+> RattleIn (TBD)
 
 > Azure Pipelines badge here
 
-> Team Members 
+> Daniela Veloz
+> Dhruv Bajpai
+> Mohammad Doleh
+> Anisha Jaykar Hedge
 
 
 | Photo              | Name             | Role          |
@@ -14,7 +17,8 @@
 
 ----
 
-
+# Docs @ RattleIn
+Welcome to the repo for our documentation.
 ### running locally
 
 Install the latest [Node.js](http://nodejs.org) 8 Stable
