@@ -11,6 +11,7 @@
     "chai": "^3.5.0",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.3",
+    "recastai": "^4.0.0",
     "socket.io-client": "^1.4.6",
     "supertest": "^1.2.0"
   },
