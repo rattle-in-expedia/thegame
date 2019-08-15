@@ -5,11 +5,12 @@
 
 > ![](https://img.shields.io/badge/Inner--Source-ready-blue.svg)
 
-> Daniela Veloz
-> Dhruv Bajpai
-> Mohammad Doleh
-> Anisha Jaykar Hedge
-
+| Contributors        |
+|---------------------|
+| Daniela Veloz       |
+| Dhruv Bajpai        |
+| Mohammad Doleh      |
+| Anisha Jaykar Hedge |
 
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
