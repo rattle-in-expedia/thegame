@@ -9,7 +9,7 @@
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
 | <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U6758L6UA-943cb8dd124b-192 " align="left" height="65" width="65" ></a>| Daniela Veloz    | Dev           |
-| ![Screenshot](/images/dhruv.jpg =50x50)                    | Dhruv Bajpai     | Dev           |
+| <a href="url"><img src="https://dhruvbpersonalbucket.s3.amazonaws.com/dhruv2.jpg"       | Dhruv Bajpai     | Dev           |
 | <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U7JU43N3D-6b0b0fae7032-192" align="left" height="65" width="65" ></a>                 | Mohammad Doleh   |   Dev            |
 | <a href="url"><img src="https://files.slack.com/files-pri/T09D77D4P-FM2F3P96W/anisha.jpg " align="left" height="65" width="65" ></a>                   | Anisha Jaykar Hedge  |      Dev         |
 
