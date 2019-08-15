@@ -24,8 +24,11 @@ Welcome to the repo for our documentation. RattleIn is a multiplayer snake battl
 The main purpose of this repository is to continue to make this game an experience gameers don't forget. Want to file a bug, contribute some code, or improve documentation? Excellent!  Do read the [contributing guilde](https://github.com/daniela-veloz/thegame/blob/master/CONTRIBUTING.md) to learn how you can help improve RattleIn.
 
 
+# Feedback
+Questions regarding the game can be sent to our dev-group.
 
-### Installation and Running Locally
+
+## Installation and Running Locally
 
 Install the latest [Node.js](http://nodejs.org) 8 Stable
 
