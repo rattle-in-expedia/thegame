@@ -53,5 +53,5 @@ Questions regarding the game can be sent to our dev-group.
 ## Roadmap
 We plan on making the RattleIn a 3D experience as we go on. Stay Tuned for updates on slack channel.
 
-##License
+## License
 Code and Documentation © 2019, Github Hackathon @Expedia
