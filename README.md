@@ -8,10 +8,10 @@
 
 | Photo              | Name             | Role          |
 |--------------------|------------------|---------------|
-| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U6758L6UA-943cb8dd124b-192 " align="left" height="48" width="48" ></a>| Daniela Veloz    | Dev           |
-| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-UATCBAE5A-276b55facf2f-192 " align="left" height="48" width="48" ></a>                    | Dhruv Bajpai     | Dev           |
-| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U7JU43N3D-6b0b0fae7032-192" align="left" height="48" width="48" ></a>                 | Mohammad Doleh   |   Dev            |
-| <a href="url"><img src="https://files.slack.com/files-pri/T09D77D4P-FM2F3P96W/anisha.jpg " align="left" height="48" width="48" ></a>                   | Anisha Jaykar Hedge  |      Dev         |
+| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U6758L6UA-943cb8dd124b-192 " align="left" height="65" width="65" ></a>| Daniela Veloz    | Dev           |
+| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-UATCBAE5A-276b55facf2f-192 " align="left" height="65" width="65" ></a>                    | Dhruv Bajpai     | Dev           |
+| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U7JU43N3D-6b0b0fae7032-192" align="left" height="65" width="65" ></a>                 | Mohammad Doleh   |   Dev            |
+| <a href="url"><img src="https://files.slack.com/files-pri/T09D77D4P-FM2F3P96W/anisha.jpg " align="left" height="65" width="65" ></a>                   | Anisha Jaykar Hedge  |      Dev         |
 
 
 
