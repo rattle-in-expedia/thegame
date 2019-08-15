@@ -6,17 +6,17 @@
 > # RattleIn   ![](https://img.shields.io/badge/Inner--Source-ready-blue.svg)
 
 
-| Photo              | Name             | Role          |
-|--------------------|------------------|---------------|
-| ![Screenshot](/images/dan2.jpg)| Daniela Veloz    | Dev           |
-| ![Screenshot](/images/dhruv2.jpg)          | Dhruv Bajpai     | Dev           |
-| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U7JU43N3D-6b0b0fae7032-192" align="left" height="65" width="65" ></a>                 | Mohammad Doleh   |   Dev            |
-| ![Screenshot](/images/anisha2.png)                   | Anisha Jaykar Hedge  |      Dev         |
+| Photo              | Name             | Role          | Pronouns
+|--------------------|------------------|---------------|---------------|
+| ![Screenshot](/images/dan2.jpg)| Daniela Veloz    | Dev           | She, her|
+| ![Screenshot](/images/dhruv2.jpg)          | Dhruv Bajpai     | Dev           |They, them|
+| <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U7JU43N3D-6b0b0fae7032-192" align="left" height="65" width="65" ></a>                 | Mohammad Doleh   |   Dev            |He, him|
+| ![Screenshot](/images/anisha2.png)                   | Anisha Jaykar Hedge  |      Dev         |She,her|
 
 
 
 
-Welcome to the repo for our documentation. RattleIn is a multiplayer snake battle royale experience which will blow your mind. We're taking the the coding effort of just one engineering team and make it available to all of Acme Engineering.
+Welcome to the repo for our documentation. RattleIn is a multi-player snake battle royale experience which will blow your mind. We're taking the the coding effort of just one engineering team and make it available to all of Acme Engineering.
 
 * [How to Contribute](#Want-to-Contribute)
 * [Usage](#Installation-and-Running-Locally )
@@ -26,7 +26,7 @@ Welcome to the repo for our documentation. RattleIn is a multiplayer snake battl
 
 
 ## Want to Contribute?
-The main purpose of this repository is to continue to make this game an experience gameers don't forget. Want to file a bug, contribute some code, or improve documentation? Excellent!  Do read the [contributing guilde](https://github.com/daniela-veloz/thegame/blob/master/CONTRIBUTING.md) to learn how you can help improve RattleIn.
+The main purpose of this repository is to continue to make this game an experience gamers don't forget. Want to file a bug, contribute some code, or improve documentation? Excellent!  Do read the [contributing guide](https://github.com/daniela-veloz/thegame/blob/master/CONTRIBUTING.md) to learn how you can help improve RattleIn.
 
 
 ## Installation and Running Locally   
