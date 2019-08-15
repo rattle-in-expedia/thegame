@@ -1,7 +1,9 @@
 
+
+
 > RattleIn (TBD)
 
-> Azure Pipelines badge here
+> ![](https://img.shields.io/badge/Inner--Source-ready-blue.svg)
 
 > Daniela Veloz
 > Dhruv Bajpai
@@ -37,3 +39,13 @@ Install the latest [Node.js](http://nodejs.org) 8 Stable
 `npm start`
 
 Open your web browser to `localhost:3000`
+
+## Support/Maintainers
+Please join the following slack channel for any questions/suggestions and thoughts that you'd like to share with us.
+#### #rattlein-hackathon
+
+## Roadmap
+We plan on making the RattleIn a 3D experience as we go on. Stay Tuned for updates on slack channel.
+
+##License
+Code and Documentation © 2019, Github Hackathon @Expedia
