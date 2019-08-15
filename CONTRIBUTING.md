@@ -1,4 +1,4 @@
-# Contributing to Node.js
+# Contributing to RattleIn
 
 * [Code of Conduct](#code-of-conduct)
 * [Issues](#issues)
@@ -14,7 +14,7 @@ to which all contributors must adhere.
 See [details on our policy on Code of Conduct](./doc/guides/contributing/coc.md).
 
 
-## [Issues](./doc/guides/contributing/issues.md)
+## Issues
 
 ### How to Contribute in Issues
 For any issue, there are fundamentally three ways an individual can
@@ -33,7 +33,7 @@ contribute:
    often, by opening a Pull Request that changes some bit of something in
      in a concrete and reviewable manner.
 
-## [Pull Requests]
+## Pull Requests
 
 ### How to Submit A Change
 1. Fork this repo
@@ -74,7 +74,7 @@ where is the hash of the commit immediately preceding yours.
 8. Submit PR and describe the change
 Push your changes to your branch and open a pull request against the parent repo on GitHub. The project owner will review your pull request and respond with feedback.
 
-## [How Your Change Gets Merged]
+## How Your Change Gets Merged
 Upon PR submission, your code will be reviewed by maintainers.
 
 They will confirm at least the following:
