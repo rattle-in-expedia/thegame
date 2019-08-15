@@ -11,7 +11,7 @@
 | ![Screenshot](/images/dan2.jpg)| Daniela Veloz    | Dev           |
 | ![Screenshot](/images/dhruv2.jpg)          | Dhruv Bajpai     | Dev           |
 | <a href="url"><img src="https://ca.slack-edge.com/T09D77D4P-U7JU43N3D-6b0b0fae7032-192" align="left" height="65" width="65" ></a>                 | Mohammad Doleh   |   Dev            |
-| ![Screenshot](/images/anisha2.jpg)                   | Anisha Jaykar Hedge  |      Dev         |
+| ![Screenshot](/images/anisha2.png)                   | Anisha Jaykar Hedge  |      Dev         |
 
 
 
