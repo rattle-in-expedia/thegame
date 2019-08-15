@@ -28,7 +28,7 @@ The main purpose of this repository is to continue to make this game an experien
 Questions regarding the game can be sent to our dev-group.
 
 
-## Installation and Running Locally
+## Installation and Running Locally   
 
 Install the latest [Node.js](http://nodejs.org) 8 Stable
 
